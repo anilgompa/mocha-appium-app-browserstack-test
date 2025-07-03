@@ -12,7 +12,7 @@ var config = {
         "appium:osVersion": "12.0",
         "browserName" : "chrome",
         "platformName" : "android",
-        "appium:app" : "bs://<app-id>",
+        "appium:app" : "bs://sample.app",
         'bstack:options' : {
             "sessionName" : "Bstack parallel mocha",
         }
@@ -22,7 +22,7 @@ var config = {
         "appium:osVersion": "12.0",
         "browserName" : "chrome",
         "platformName" : "android",
-        "appium:app" : "bs://<app-id>",
+        "appium:app" : "bs://sample.app",
         'bstack:options' : {
             "sessionName" : "Bstack parallel mocha",
         }
