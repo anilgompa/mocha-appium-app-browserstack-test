@@ -12,7 +12,7 @@ var config = {
         "appium:osVersion": "12.0",
         "browserName" : "chrome",
         "platformName" : "android",
-        "appium:app" : "bs://sample.app",
+        "appium:app" : "bs://WikipediaSample.app",
         'bstack:options' : {
             "sessionName" : "Bstack parallel mocha",
         }
@@ -22,7 +22,7 @@ var config = {
         "appium:osVersion": "12.0",
         "browserName" : "chrome",
         "platformName" : "android",
-        "appium:app" : "bs://sample.app",
+        "appium:app" : "bs://WikipediaSample.app",
         'bstack:options' : {
             "sessionName" : "Bstack parallel mocha",
         }
@@ -32,7 +32,7 @@ var config = {
         "appium:osVersion": "12.0",
         "browserName" : "chrome",
         "platformName" : "android",
-        "appium:app" : "bs://<app-id>",
+        "appium:app" : "bs://WikipediaSample.app",
         'bstack:options' : {
             "sessionName" : "Bstack parallel mocha",
         }
