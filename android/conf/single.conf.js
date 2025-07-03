@@ -6,7 +6,7 @@ exports.capabilities = {
     "appium:deviceName" : "Google Pixel 6 Pro",
     "browserName" : "chrome",
     "appium:osVersion": "12.0",
-    "appium:app" : "bs://WikipediaSample.app",
+    "appium:app" : "bs://a66377d72f9d26848b718fc98fea9ddfbf9b1694",
     'bstack:options' : {
         "projectName" : "BStack Demo",
         "buildName" : "browserstack-build-1",
