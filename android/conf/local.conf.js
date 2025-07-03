@@ -6,7 +6,7 @@ exports.capabilities = {
     "appium:deviceName" : "Samsung Galaxy S22 Ultra",
     "browserName" : "chrome",
     "appium:osVersion": "12.0",
-    "appium:app" : "bs://sample.app",
+    "appium:app" : "bs://WikipediaSample.apk",
     'bstack:options' : {
         "projectName" : "BStack Demo",
         "buildName" : "browserstack-build-1",
